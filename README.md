@@ -1,4 +1,4 @@
-# Sample Plugin
+# Nopify
 Author: **ghozt**
 
 _Quick and dirty Binary Ninja plugin to patch as nop a given function name_
